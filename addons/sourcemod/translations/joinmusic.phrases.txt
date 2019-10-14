@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"JOINMUSIC_OFF"
+	{
+		"en"	"Disable Join Music"
+	}
+	"JOINMUSIC_ON"
+	{
+		"en"	"Enable Join Music"
+	}
+	"VOLUME"
+	{
+		"en" 		"Volume"
+	}
+	"JMVOLUME"
+	{
+		"en" 		"Join Music Volume"
+	}	
+	"SELECTED"
+	{
+		"en"	"(X)"
+	}
+}
